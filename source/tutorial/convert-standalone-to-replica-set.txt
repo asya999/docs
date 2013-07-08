@@ -56,8 +56,8 @@ Expand the Replica Set
 
 Add additional replica set members by doing the following:
 
-#. On two distinct systems, start two new standalone :program:`mongod`
-   instances. For information on starting a standalone instance, see
+#. On two distinct systems, start two new :program:`mongod`
+   instances with the same replSet name. For information on starting an instance, see
    the :ref:`installation tutorial <tutorials-installation>` specific
    to your environment.
 
