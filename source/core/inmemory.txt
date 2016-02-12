@@ -16,7 +16,7 @@ In-Memory Storage Engine
 
 Starting in MongoDB Enterprise 3.2, an in-memory storage engine is
 available in the 64-bit builds for beta-testing purposes. Other than
-some metadata and diagnoistic data, the in-memory storage engine does
+some metadata and diagnostic data, the in-memory storage engine does
 not maintain any on-disk data. By avoiding disk I/O, the in-memory
 storage engine allows for more predictable latency of database
 operations.
